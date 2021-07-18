@@ -1,0 +1,19 @@
+{
+  "name": "techdegree-project-4",
+  "version": "1.0.0",
+  "description": "A web style guide which shows how various colors, buttons and columns will be displayed on a website. Incorporates a SASS stylesheet for enhanced color functions and optimized loading times. Project four of Treehouse Techdegree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwalkerwebdev/Techdegree-Project-4.git"
+  },
+  "author": "Brian Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwalkerwebdev/Techdegree-Project-4/issues"
+  },
+  "homepage": "https://github.com/bwalkerwebdev/Techdegree-Project-4#readme"
+}
